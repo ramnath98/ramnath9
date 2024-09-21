@@ -15,6 +15,10 @@ public class test1 {
 	{
 		System.out.println("m2");
 	}
+	public void m4()
+	{
+		System.out.println("m4");
+	}
 
 
 
