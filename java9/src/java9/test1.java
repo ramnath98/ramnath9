@@ -7,5 +7,10 @@ public class test1 {
 	{
 		System.out.println();
 	}
+	public void m2()
+	{
+		System.out.println("m2");
+	}
+
 
 }
